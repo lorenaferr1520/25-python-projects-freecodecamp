@@ -1,4 +1,4 @@
-print('''Fim do programa 
+print('''End 
   __
 <(o )___
  ( ._> /
