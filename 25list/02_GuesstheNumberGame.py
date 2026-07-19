@@ -7,7 +7,7 @@ def line():
     print("=" * 30)
 
 line()
-print("GUESS THE NUMBER GAME")
+print("GUESS THE NUMBER GAME".center(30))
 line()
 
 # user input
